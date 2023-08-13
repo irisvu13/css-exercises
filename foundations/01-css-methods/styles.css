@@ -1,0 +1,13 @@
+div {
+    height:20px; 
+    width: 500px; 
+    background-color: #FF6666;  
+    color: white; 
+    text-align: center;
+    font-size: large;   
+}
+
+#btn {
+    background-color: rgb(255, 255, 100);
+    border: 2px solid rgb(180, 180, 180);
+}
