@@ -1,0 +1,36 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.num1 {
+    width: 200px;
+    height: 20px;
+    background-color: pink;
+    font-size: large;   
+}
+
+#title {
+    color: blue;
+    font-size: 300%;
+}
+
+.num3 {
+    width: 500px;
+    height: 35px;
+    background-color: pink;
+    font-size: xx-large;  
+}
+
+#num4 {
+    width: 500px;
+    height: 35px;
+    background-color: rgb(53, 178, 68);
+    font-size: 150%; 
+}
+
+.num5 {
+    width: 200px;
+    height: 20px;
+    background-color: pink;
+    font-size: large; 
+}
